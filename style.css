@@ -468,6 +468,18 @@ width: 100%;
     position: static;
 }
 
+.stats{
+flex-wrap:wrap;
+gap:15px;
+justify-content:center;
+padding:20px;
+}
+
+.stats div{
+width:45%;
+text-align:center;
+}
+
 .treatments{
 padding:40px 20px;
 }
