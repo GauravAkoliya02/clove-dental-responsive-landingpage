@@ -431,6 +431,16 @@ flex-direction:column;
     margin-top: 15px;
 }
 
+.treatment-card{
+    flex-direction: column;
+    text-align: center;
+}
+
+.treatment-card img{
+    width: 100%;
+}
+
+
 .hero-left,
 .hero-form{
 width: 100%;
