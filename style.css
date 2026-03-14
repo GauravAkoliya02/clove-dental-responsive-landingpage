@@ -456,6 +456,9 @@ width: 100%;
     position: static;
 }
 
+.treatments{
+padding:40px 20px;
+}
 
 .treat-card{
 flex-direction:column;
