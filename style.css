@@ -447,6 +447,18 @@ flex-direction:column;
     align-self: center;
 }
 
+
+.patient-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
+}
+
+.patient-card{
+width:100%;
+}
+
+
 .hero-left,
 .hero-form{
 width: 100%;
