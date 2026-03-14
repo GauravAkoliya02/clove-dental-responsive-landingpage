@@ -139,7 +139,7 @@ width:100%;
 
 .stats{
 display:flex;
-justify-content:space-around;
+justify-content:space-between;
 padding: 20px 40px;
 margin-top: -20px;
 background:#fff;
@@ -478,8 +478,8 @@ padding:20px;
 }
 
 .stats div{
-width:30%;
-font-size:12px;
+width:48%;
+font-size:13px;
 text-align:center;
 }
 
