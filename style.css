@@ -140,7 +140,9 @@ width:100%;
 .stats{
 display:flex;
 justify-content:space-between;
-padding: 20px 40px;
+ flex-wrap: wrap;
+  gap: 10px;
+padding: 20px;
 margin-top: -20px;
 background:#fff;
 font-weight:bold;
@@ -478,8 +480,7 @@ padding:20px;
 }
 
 .stats div{
-width:48%;
-font-size:13px;
+width:45%;
 text-align:center;
 }
 
